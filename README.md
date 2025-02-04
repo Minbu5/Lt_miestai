@@ -9,3 +9,8 @@ Pasirinkus lygį reikia įrašyti miesto pavadinimą, jei toks miestas yra jis a
 
 Programoje panaudota vaizdui Tkinter ir Turtle moduliai. Duomenų surinkimui (csv formatu) Pandas
 Duomenų šaltinis: https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_miestaiiju 
+Tam kad programa veiktų reikalingas interneto ryšis, tam kad patikrinti duomenys iš duomenų šaltinio.
+programai paleisti naudojamas main.py (jei turite instaliuota python) arba main.exe (be python)
+
+
+
